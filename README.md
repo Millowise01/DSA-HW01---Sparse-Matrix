@@ -1,20 +1,17 @@
 # DSA-HW01---Sparse-Matrix
 
-# Sparse Matrix Operations
-This program performs addition, subtraction, and multiplication on large sparse matrices efficiently Sparse matrices are matrices with mostly zero values, and this program stores only the non-zero elements to save memory.
+# Sparse Matrix OperationsThis program efficiently performs addition, subtraction, and multiplication on large sparse matrices. Sparse matrices have mostly zero values, this program stores only the non-zero elements to save memory.
 
 # How to Use
 1. Organize your files:
-
-# Place your Python script (sparse_matrix.py) in /dsa/sparse_matrix/code/src/.
-
-# Place your input files (matrix1.txt, matrix2.txt) in /dsa/sparse_matrix/sample_inputs/.
+# Python script (sparse_matrix.py) in /DSA-HW01---Sparse-Matrix/sparse_matrix/code 
+# input files (matrix1.txt, matrix2.txt) in /DSA-HW01---Sparse-Matrix/sparse_matrix/sample_inputs .
 
 2. Run the program:
 Navigate to the src directory:
 
 # bash
-cd /dsa/sparse_matrix/code/src/
+cd DSA-HW01---Sparse-Matrix/sparse_matrix/code 
 
 # bash
 python sparse_matrix.py
